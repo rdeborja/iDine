@@ -22,6 +22,7 @@
 		615714312356BD8A00E08A90 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615714302356BD8A00E08A90 /* ItemDetail.swift */; };
 		615714332356C38100E08A90 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615714322356C38100E08A90 /* OrderView.swift */; };
 		615714352356C4DB00E08A90 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615714342356C4DB00E08A90 /* AppView.swift */; };
+		6157143723571DB600E08A90 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6157143623571DB600E08A90 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		615714302356BD8A00E08A90 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		615714322356C38100E08A90 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		615714342356C4DB00E08A90 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		6157143623571DB600E08A90 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				615714062356B41E00E08A90 /* SceneDelegate.swift */,
 				615714082356B41E00E08A90 /* ContentView.swift */,
 				615714302356BD8A00E08A90 /* ItemDetail.swift */,
+				6157143623571DB600E08A90 /* CheckoutView.swift */,
 				615714322356C38100E08A90 /* OrderView.swift */,
 				615714342356C4DB00E08A90 /* AppView.swift */,
 				6157142E2356B97300E08A90 /* ItemRow.swift */,
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6157142B2356B47500E08A90 /* Menu.swift in Sources */,
+				6157143723571DB600E08A90 /* CheckoutView.swift in Sources */,
 				615714052356B41E00E08A90 /* AppDelegate.swift in Sources */,
 				615714072356B41E00E08A90 /* SceneDelegate.swift in Sources */,
 				6157142F2356B97300E08A90 /* ItemRow.swift in Sources */,
